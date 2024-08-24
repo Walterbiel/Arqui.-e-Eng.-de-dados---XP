@@ -1,0 +1,501 @@
+Nome Cliente,ID Cliente,Estado,Quantidade Comprada,Valor,Custo,Data Compra,Nome Produto
+Nicole da Rocha,b2af259c-fb09-43f6-abc2-a2628501b17c,SC,15,1497.4,2556.05,2024-07-09,Cafeteira Nespresso
+Rafaela Novaes,1a037f4f-cf76-46b0-b577-158bb1e9ae39,BA,19,3085.96,1446.63,2024-07-05,Fogão Consul
+Melissa Melo,0577bb3f-3d68-4c76-b78a-474ce9aea79b,GO,10,889.58,2449.69,2024-07-25,Smartphone Samsung
+Dr. João Pedro Aragão,1a55633b-8e14-4fcc-8fda-7dd574cf7bb8,DF,18,2453.5,956.34,2024-05-07,Câmera Canon
+Laís Pires,a60d403e-7b97-410e-b0cd-85bbed33f228,MG,5,4861.16,3311.81,2024-03-15,Ar Condicionado Philco
+Dr. Davi Barbosa,31047560-e0a5-42bf-8159-548f225ac16c,MG,7,4155.23,676.47,2024-01-17,Smartphone Samsung
+Dr. Samuel Novaes,aa47a381-b8fc-4072-a459-db57b8a126a6,GO,15,2320.78,3834.97,2024-05-16,Televisão LG
+Thales Pereira,fd43d327-4f41-497c-a06b-e8571a8e4130,BA,12,1659.42,1349.53,2024-08-14,Microondas Electrolux
+Sra. Maria Alice da Cunha,a333c9bc-87b6-4b4e-b30f-f4b5cfe5505e,PR,11,3358.61,2338.1,2024-07-08,Microondas Electrolux
+Rodrigo Duarte,e67b6584-6e09-4889-8c36-133d73838fd0,BA,19,65.95,1141.32,2024-04-17,Ar Condicionado Philco
+Luiz Gustavo Mendes,7744b9c3-649c-449c-ba40-7ec7d8abddea,ES,13,4121.97,464.88,2024-03-27,Smartphone Samsung
+Maysa Dias,6b813c61-6277-4200-8fb8-ac1c300eb104,SP,12,4180.09,1596.64,2024-04-10,Smartphone Samsung
+Marina Ramos,516744ae-2207-4412-afb0-78f18b39c2d2,GO,5,4628.27,1315.03,2024-04-02,Fogão Consul
+Antônio Dias,e7eed103-8b8f-4e6c-8856-921a93078c94,RS,5,4392.59,1599.37,2024-07-05,Fogão Consul
+Davi Luiz Santos,2df393f4-4e21-4338-95bd-bdbc299ea80f,BA,11,2885.97,2432.99,2024-06-20,Geladeira Brastemp
+Bruna Lima,113504e4-dbfe-4ab8-9ccc-18ccb396288f,DF,9,4460.04,64.76,2024-03-13,Cafeteira Nespresso
+Ana Luiza Oliveira,4db59df2-599c-44d3-b59a-277c1446ef92,BA,14,1915.03,143.86,2024-05-02,Fogão Consul
+Dr. Paulo da Mata,6b7fe5f4-bf2a-442b-b1de-663ffda41df3,DF,12,2016.54,3707.53,2024-07-07,Impressora HP
+João Oliveira,a32f0aad-07d9-4d8b-ae92-1e90d65c8398,ES,18,3113.56,2551.78,2024-04-06,Impressora HP
+Helena Dias,d3e80c6a-6d54-4c5f-94ad-c92a2d20baf9,SP,19,4086.03,1450.99,2024-04-27,Câmera Canon
+Marcela Pinto,30bff905-e8d6-4637-8d89-049bdaa07ebb,RS,3,636.92,2694.95,2024-02-20,Câmera Canon
+Sr. Lucca Duarte,5b62636d-5adb-4b97-80b9-4925b28a90e1,RJ,11,1575.6,2405.41,2024-08-07,Ar Condicionado Philco
+Kamilly Caldeira,55067a68-df04-4e9f-b731-0a13c1c6e1ac,BA,8,3289.43,656.82,2024-08-12,Cafeteira Nespresso
+Danilo Melo,33cccf13-c106-49ab-b785-8d0a84afafb6,RJ,11,227.55,2741.66,2024-07-21,Geladeira Brastemp
+Nathan Cunha,cf564d95-51f2-4b33-9bac-1e9d82ce6e3c,PR,15,4508.26,695.83,2024-08-02,Microondas Electrolux
+Lorenzo Costela,5396cc61-05d1-4100-b508-75a5930be357,RJ,2,2429.99,280.67,2024-01-27,Notebook Lenovo
+Guilherme Costa,cb51c809-c5e2-4a6b-bae3-1b0578001f9d,DF,14,4487.27,747.38,2024-03-04,Geladeira Brastemp
+Srta. Natália Silva,fbe59310-b235-48cd-9096-ac8388a1dc65,SP,20,51.43,2583.04,2024-01-20,Televisão LG
+Marcelo Novaes,92a8ec51-8622-42c2-9cf7-cb2b42b93ab0,DF,17,929.09,2442.19,2024-02-04,Impressora HP
+Davi Lucca Nogueira,bdc9eef5-86ee-4c35-b132-027b87cd3290,GO,9,259.68,2837.73,2024-04-30,Smartphone Samsung
+Helena Pereira,5df59bd0-4ed3-4a03-b622-455e755514e3,RS,11,3957.03,828.85,2024-07-24,Televisão LG
+João Lucas Gonçalves,f3e2dd7a-941e-4eb3-b5b8-cb0bec2988b8,ES,9,188.72,93.77,2024-07-24,Fogão Consul
+Natália Porto,a9f5a2c3-e628-4ab4-a6df-1b6bc75a74d2,BA,20,3447.54,235.3,2024-03-24,Impressora HP
+Theo da Mata,0f810ef8-1994-4fab-81c7-55bc4f62963e,GO,4,1176.45,1165.48,2024-08-14,Fogão Consul
+Emanuel Ferreira,ffb04bd8-8b7a-4a96-a86a-aa4c09a63b69,PR,3,4681.91,3079.44,2024-08-16,Cafeteira Nespresso
+Davi Lucas Cardoso,6fcb18fc-1ed1-45f4-bfa8-ce96a74be01c,BA,11,680.88,2962.86,2024-08-02,Microondas Electrolux
+Mirella Gomes,c470d89d-40bf-4339-bead-3045719e58ca,BA,20,3390.09,2776.83,2024-02-09,Impressora HP
+Dr. Breno Fogaça,28104b91-6206-4daa-9cdf-cb39fbd1f0b3,GO,20,1534.69,3903.13,2024-02-29,Impressora HP
+Nicole da Luz,d68b97ed-66d0-4516-b279-86bc91883044,GO,16,1456.41,3284.83,2024-01-31,Microondas Electrolux
+Sabrina Porto,add5ed2b-6549-4d82-bfd8-f2da972e24fa,BA,8,4432.17,356.77,2024-08-04,Impressora HP
+Sra. Ana Sophia das Neves,53ced378-ee0b-49b1-b290-dc689e42adf9,DF,19,4330.36,3679.74,2024-06-05,Geladeira Brastemp
+Lorena Monteiro,8f7f2135-ba8d-4da4-b812-81c087725390,BA,10,2368.07,1832.52,2024-03-11,Impressora HP
+Dra. Gabrielly Campos,fd95d2f6-5c23-432b-9f25-1c6130d8b607,DF,11,726.34,1897.44,2024-01-27,Impressora HP
+Marina Alves,b7ea4173-f322-4585-b355-bbba79086ad2,MG,7,4101.64,1507.51,2024-06-17,Smartphone Samsung
+Isis Ferreira,e80683e4-32ff-4be4-9683-13a877d7bcc7,SC,3,3281.34,3514.3,2024-05-05,Geladeira Brastemp
+Juliana Peixoto,d43af462-1a8d-46cd-ab0e-c99d3f0be651,ES,9,2083.37,1965.02,2024-07-11,Notebook Lenovo
+Sr. Bryan Freitas,c6270205-618a-4607-be55-835f6984153f,RS,16,740.68,61.32,2024-02-22,Geladeira Brastemp
+Eloah Ribeiro,a36fdea3-5f13-4ef8-aaa0-c82653b40be0,SC,5,3349.75,868.06,2024-07-09,Fogão Consul
+Sra. Maria Fernanda Pires,4df729ea-cb74-49e3-bbdc-a8860cc52601,RJ,16,3953.77,3104.68,2024-04-27,Ar Condicionado Philco
+Francisco Ferreira,37def154-a6cd-4843-8704-253dfa8f5450,RS,11,4978.17,1301.11,2024-07-03,Televisão LG
+Dra. Lorena Azevedo,3b05e3f5-195b-4909-9bfa-171a74bbd31d,DF,7,1932.07,954.2,2024-04-12,Microondas Electrolux
+Dra. Vitória da Mota,7d132f58-13ee-4f15-b8a4-eec4ab1ed134,ES,1,2088.94,776.62,2024-05-07,Fogão Consul
+Cauã Carvalho,2ef5dac4-be59-4ee0-9785-400d39efa821,MG,11,542.84,716.74,2024-05-20,Geladeira Brastemp
+Lívia Rodrigues,a4d282ad-a981-4dfb-9fb7-047811d3fef1,GO,8,3270.75,2998.92,2024-03-03,Impressora HP
+Alícia Rezende,1d2fd04e-2a9f-4f28-8782-08cf32802eca,ES,6,3999.13,281.36,2024-04-16,Microondas Electrolux
+Sr. Nicolas Teixeira,d4b40a63-4958-4404-b4e2-5d6d982de44c,DF,10,2754.72,3195.4,2024-07-07,Notebook Lenovo
+Kamilly da Cruz,d2497ca7-8704-4b08-8887-a22b7409948b,BA,14,3785.3,2072.59,2024-03-05,Notebook Lenovo
+Maria Vitória Souza,c492d1b6-3c93-4869-8947-4f21627f0ef2,PR,12,4299.81,3894.89,2024-04-10,Notebook Lenovo
+Sr. Theo da Rocha,ef288b08-653b-4a51-93b5-c6cc3bae5ce7,MG,5,4198.54,1853.48,2024-03-02,Notebook Lenovo
+Marcos Vinicius Cunha,28cd426c-8935-489b-bb43-29902ddd385f,SP,11,3063.03,575.01,2024-04-30,Televisão LG
+Nicolas Azevedo,3aabbbfe-aa00-497c-ab0f-a7ad48777e34,MG,1,4203.25,3611.07,2024-01-24,Notebook Lenovo
+Maria Clara Pinto,2a0b019f-13f0-4bcc-93cb-25969e61a81b,RS,17,3541.28,2034.59,2024-02-11,Câmera Canon
+Daniela da Rocha,66650757-9bd9-4abf-b1b5-86dd8c4d620f,DF,13,2826.07,3128.41,2024-05-27,Notebook Lenovo
+Maria Cecília Souza,ebe34552-d1bb-4582-a281-5720168bbd0c,ES,18,4189.84,3446.89,2024-01-03,Impressora HP
+Augusto Fogaça,edc963bf-ce43-4c57-8756-4e68b4e7f3f0,GO,17,3781.06,1080.75,2024-04-13,Microondas Electrolux
+Leonardo Viana,9902663e-f785-4249-b171-b1b96dcf05f8,RJ,8,3914.1,2298.99,2024-05-06,Smartphone Samsung
+Emilly Oliveira,eb0e3b92-54cc-416e-900e-de25f7300cbd,ES,20,4938.7,1943.61,2024-01-31,Ar Condicionado Philco
+Marcelo Cardoso,0b3bff86-b645-493a-9f2b-d809056f0b40,DF,10,2330.67,1648.57,2024-04-11,Fogão Consul
+Sabrina Duarte,1dfe757a-7c53-4d89-a2be-c0658c17e326,GO,5,3232.09,2992.06,2024-01-02,Microondas Electrolux
+Matheus da Rocha,b4a64cd7-b1aa-4388-92f9-694390000471,SC,12,3280.83,777.28,2024-03-30,Geladeira Brastemp
+Anthony Mendes,f8bf3a82-b2e0-4885-b141-900551c56cd2,BA,1,4386.17,3771.43,2024-03-21,Impressora HP
+Yasmin Azevedo,46a2b475-83ba-4404-82a1-2ed4f8014743,RS,13,2545.07,1922.63,2024-03-25,Geladeira Brastemp
+Emanuelly Teixeira,702c6604-5024-4584-92e5-6a8debc7d5a0,PR,13,3178.01,1046.27,2024-08-07,Notebook Lenovo
+Davi Lucca Sales,80ba9e65-2173-4416-9a3f-bd9399e6d154,RS,19,1805.44,2984.01,2024-07-20,Microondas Electrolux
+Ana Silva,62ec8b35-737a-4f57-8400-194ff6a6ad29,SC,9,2629.14,2622.97,2024-03-06,Cafeteira Nespresso
+Paulo Nunes,acdb2ab3-5896-46a4-b986-6ae8f38fe5bd,DF,5,2616.9,368.56,2024-06-24,Televisão LG
+Raul Mendes,2c5d60fa-1e5b-41ed-b1c3-fc89b01342c8,SC,8,2360.02,3569.77,2024-01-04,Fogão Consul
+Dr. Luiz Otávio Martins,b38ff277-2a9f-450c-9a85-83f39cf1f16f,PR,12,2046.46,2210.92,2024-04-04,Microondas Electrolux
+Maria Alice Barbosa,f299b9a1-81cc-4663-b8e0-7d1c1868eab9,GO,1,376.01,2308.77,2024-07-11,Câmera Canon
+João Lucas Silveira,9def7c58-75e1-404e-a0e2-f2699d524e3b,RJ,8,3401.32,3969.78,2024-05-21,Fogão Consul
+Natália Nascimento,a569332d-985f-4e54-b2c5-15978cad7532,DF,13,4456.93,3163.36,2024-04-05,Fogão Consul
+João Lucas Silva,5536a546-3303-496d-9e4b-e7163a62fd2d,PR,7,3763.36,2316.83,2024-03-10,Fogão Consul
+Alícia Jesus,63356cfe-4286-4e14-8c04-a4491542aef7,RS,1,3247.99,2913.45,2024-08-12,Microondas Electrolux
+Pedro Lucas Carvalho,53580b5e-e9b3-416e-a542-2be118d36e92,SP,7,3019.27,181.34,2024-04-15,Câmera Canon
+Ana Luiza Alves,cae52054-82a1-4bed-9241-dd41f326a40d,PR,1,4834.66,806.24,2024-06-17,Notebook Lenovo
+Pedro Miguel Silveira,02d0a554-46df-410c-a321-a4ffd127e717,PR,8,1934.61,586.23,2024-02-20,Smartphone Samsung
+Rodrigo Nunes,cfac18fc-6ef2-44cc-a6d3-e08ed4eeeb18,DF,19,298.18,1603.98,2024-01-05,Impressora HP
+Marcelo Cardoso,4d6ab7bf-2f3d-4ca3-81dc-a94c14aa021d,SP,17,3410.79,193.69,2024-03-27,Microondas Electrolux
+Isabella Costa,83c6f11c-d1a6-4100-9543-e4f0471e457b,RJ,9,2094.39,210.98,2024-07-20,Ar Condicionado Philco
+Pedro Henrique Pereira,1033dc81-6d64-4476-a736-c9b78c91f8ff,DF,18,53.09,777.8,2024-05-18,Notebook Lenovo
+Rebeca Rocha,d7ae2665-ca19-42ad-bf8b-000a5b51f31a,MG,6,3307.23,309.11,2024-05-27,Notebook Lenovo
+Sr. Otávio das Neves,406a85f6-af81-4cf4-98e0-44a192f693af,MG,18,3533.28,846.49,2024-01-18,Smartphone Samsung
+Diogo Pinto,ed52e062-80d5-485d-8ea4-3a42978613e8,PR,6,4634.0,1930.01,2024-06-01,Câmera Canon
+Sr. Rodrigo Fogaça,571c87d6-29ae-46a0-97ad-c383f5d702ab,PR,9,1085.91,3851.39,2024-07-23,Microondas Electrolux
+Dr. Igor Azevedo,61203609-388e-4efa-b5ae-5aec2ca8fd75,GO,11,2880.01,3397.88,2024-07-25,Geladeira Brastemp
+Clara Nascimento,5958b4ac-e9c9-47dd-b0f8-50eb4e977ce4,BA,12,998.02,637.89,2024-05-14,Ar Condicionado Philco
+Sr. João da Luz,95ba8c1f-11b5-46eb-be76-9027ae0cba78,RJ,11,3461.1,2146.25,2024-04-03,Geladeira Brastemp
+Leandro Lopes,9cfd2521-b075-4466-b8ee-09a9b506a265,GO,20,334.73,3309.59,2024-08-02,Microondas Electrolux
+João Guilherme Gonçalves,bf9cfa33-386c-49a4-9095-e4f8dacfbf43,RS,9,69.2,1926.47,2024-07-23,Câmera Canon
+Benício Campos,e1379bc3-85ff-423c-8c09-a7914abb840b,RJ,13,4333.99,2138.74,2024-02-08,Notebook Lenovo
+Luiz Henrique da Mata,54855dda-76d0-4427-a178-e9775af4e4ec,GO,14,4789.03,813.03,2024-05-17,Câmera Canon
+Enzo Novaes,0104a17e-8686-4f4d-9957-0909e47f9f4d,MG,19,4224.38,3353.12,2024-07-05,Ar Condicionado Philco
+Sr. João Gabriel Costa,215971c3-e8d0-4f44-82d2-13edb88a5414,ES,19,4579.27,736.41,2024-07-03,Notebook Lenovo
+Ana Luiza da Rocha,fae26dec-dd2e-4d33-a8eb-18874495a660,SP,1,3482.53,1220.07,2024-06-07,Smartphone Samsung
+Laura Farias,fa172c31-ba55-4d93-9fa9-7363decf8945,SC,18,4436.87,1451.04,2024-03-13,Geladeira Brastemp
+Srta. Eloah Cavalcanti,375b6361-174f-4241-96b0-7967f18d9362,RS,14,1742.82,3585.54,2024-06-04,Impressora HP
+Fernanda Cunha,0eb928d1-c9ff-431b-a62f-ac6efa626906,GO,7,346.86,1579.17,2024-05-04,Impressora HP
+Diego da Costa,9733d758-95e9-4154-bad0-7e5ffe5b83fb,RJ,5,3457.79,3725.62,2024-02-03,Impressora HP
+Dr. André Fernandes,cd9d5ffd-2617-4aa8-8175-17c94273b1b9,BA,15,1863.63,1934.49,2024-07-02,Televisão LG
+Fernando da Rosa,59a4358e-9a55-48ec-b4f4-3c5ddc7e232c,MG,7,556.25,1705.21,2024-04-08,Geladeira Brastemp
+Henrique Caldeira,82288e57-4a8d-4900-89c0-6b1ce22aad01,ES,11,4437.41,2858.47,2024-01-11,Câmera Canon
+Daniela Silveira,4fc85d2c-d09f-4599-9870-6e3edc879b6d,MG,1,2299.36,3416.48,2024-07-29,Televisão LG
+Laura da Conceição,63bb762d-dfec-4e16-b589-5ad70cef7d7a,SC,5,4626.39,672.29,2024-03-09,Cafeteira Nespresso
+Dra. Joana da Cunha,f60ec285-fe20-48bc-ab62-bbeaf9a10043,SP,7,3196.03,3685.74,2024-01-09,Ar Condicionado Philco
+Breno Campos,f8e5eac6-e428-420f-a80f-294360132d6b,GO,9,1918.76,690.49,2024-03-18,Impressora HP
+Kevin Fernandes,1435140a-92ae-4184-b0f9-1607675a433b,PR,6,3277.6,2272.65,2024-01-07,Televisão LG
+Laura Aragão,8807750f-316f-4ecc-a16a-4570c6693c82,BA,3,4029.4,1270.88,2024-03-03,Notebook Lenovo
+Lucas Gabriel Rocha,7d88675c-51d8-49ba-adb7-8b1522f3d550,SC,15,1914.49,657.39,2024-06-12,Câmera Canon
+Elisa Santos,cd69dd23-2d12-485c-ba10-72e6f1a013fc,SC,9,4026.01,395.0,2024-02-28,Fogão Consul
+Vinicius Moura,41da7920-06e4-45b9-b33e-333a197ec57f,GO,20,3146.13,3367.88,2024-02-20,Microondas Electrolux
+Dra. Mariane Silva,88217d1a-9f44-4cc0-9eae-0cafb6b2f137,RS,8,3661.61,1234.54,2024-07-22,Smartphone Samsung
+Levi Monteiro,c48be4f0-7486-4871-a096-d868a76ebfd7,BA,19,3107.73,248.26,2024-04-19,Impressora HP
+Elisa Cardoso,461ecf13-6202-4c84-bf6f-5f5b19084f9d,RJ,11,1595.96,1545.9,2024-05-02,Fogão Consul
+Dr. Ian Viana,f47fc069-60ce-4995-ae03-dcecbd22e88c,ES,16,625.99,3983.45,2024-01-03,Notebook Lenovo
+Arthur Moraes,b8505437-ad14-4f83-af66-bd909e6c7fb9,SP,9,1180.03,3408.89,2024-05-01,Microondas Electrolux
+Ana Luiza Moraes,bbe11a7d-d9fb-40e0-9fd5-febe51d60bbc,RJ,1,1901.81,903.09,2024-08-17,Câmera Canon
+João Felipe Pires,784314a5-b345-4ca9-8f40-c3f31414ff11,SP,17,1107.83,1729.2,2024-01-30,Cafeteira Nespresso
+Júlia Martins,60d21274-d5b3-4ebf-8375-e0aaaaa5d8d2,GO,1,330.22,1781.46,2024-02-12,Televisão LG
+Leonardo Viana,75325e78-e1a0-4613-8d70-8662f5da1105,SC,13,4082.51,2735.72,2024-03-25,Fogão Consul
+Melissa da Rosa,78395749-ea01-4a77-b5df-fad8155eefcf,SP,8,3315.22,926.39,2024-03-20,Televisão LG
+Marcela Dias,3a705eee-7e94-4448-8030-dc01df648c36,ES,15,1687.13,1203.37,2024-02-08,Smartphone Samsung
+Olivia Lima,1e25b987-5ce3-4d2d-9f3c-6c9ff3fe85ff,GO,9,4391.63,287.06,2024-02-09,Cafeteira Nespresso
+Pedro Lucas da Mota,facc2280-36e2-4df4-ab1c-93cdbf2e5851,RS,4,2648.58,875.35,2024-01-09,Câmera Canon
+Marcela Caldeira,a2f9689b-da9d-4a75-af92-77ec56bff562,MG,17,889.58,1016.56,2024-03-14,Ar Condicionado Philco
+Lívia Lima,8931c042-5fb7-43e7-a7d5-c349cebcc361,RS,6,3044.61,370.87,2024-05-27,Fogão Consul
+Emilly Peixoto,385de5da-4fcb-44c6-bb11-9df28506730c,DF,6,852.01,3575.72,2024-06-10,Impressora HP
+Sr. Juan Pires,85531562-b3d0-42cb-94b5-27fea7b0525b,RS,4,4931.21,1096.0,2024-02-24,Microondas Electrolux
+Leandro Almeida,590486b4-c656-4a2f-b1ce-9638a6144e4f,ES,17,4752.0,2469.7,2024-07-24,Televisão LG
+Dra. Emilly Mendes,70698af8-90f9-4b7a-b409-75ae15189666,BA,17,4413.42,408.54,2024-02-10,Microondas Electrolux
+Luna Sales,824e6b66-05eb-43f1-af9a-9b557493bc0f,RS,5,543.04,833.46,2024-03-30,Câmera Canon
+Ana Lívia Duarte,2b9d3ea4-8eba-45d1-a70f-fd8acca860a6,BA,19,65.99,1073.55,2024-02-15,Notebook Lenovo
+Beatriz Moraes,e627129c-27b7-4143-8d8f-b500939d6712,SC,19,1573.88,1357.93,2024-03-16,Smartphone Samsung
+Melissa Ferreira,c0a19e2d-a4c6-4e95-925c-377128312f5e,BA,13,4109.48,1928.16,2024-04-05,Impressora HP
+Dr. Enrico Porto,b9b5967d-a1d4-4685-9f6b-f4b2213c1fc7,GO,15,3696.57,316.24,2024-02-21,Fogão Consul
+Alexia Sales,36d3e0fe-2a65-4c70-9eb5-72d7d7863dd3,DF,6,676.47,2230.06,2024-06-21,Cafeteira Nespresso
+Lucas Gabriel Ribeiro,fbb50d7e-b0d7-4434-925d-b48dc18bf457,RJ,15,2671.05,3278.63,2024-07-18,Ar Condicionado Philco
+Mirella Monteiro,9a1b29a4-22cd-4490-97da-ff9891853500,DF,19,2488.77,635.1,2024-07-20,Geladeira Brastemp
+Juliana Rodrigues,edaa136a-2559-42dc-ae4f-faa25625bf9f,DF,6,4110.97,3764.69,2024-08-08,Fogão Consul
+Srta. Camila Fernandes,de16c5e4-3531-43ba-87ff-bee6873cf0fa,SC,16,2045.33,2525.68,2024-06-26,Cafeteira Nespresso
+Maria Cecília Monteiro,0b028df7-7011-4c88-985d-5a4b8c5e11ed,SC,1,2729.68,3166.84,2024-01-26,Televisão LG
+Rebeca Barbosa,a40688e0-a8e2-481f-9844-ae7810249283,PR,14,2135.35,382.65,2024-02-12,Microondas Electrolux
+Luana Fogaça,b33ff1e3-b944-428d-b351-794dde208a3f,MG,3,4194.49,1984.16,2024-02-20,Impressora HP
+Sr. Rafael Costela,1cd42135-e91b-4619-ba1e-286dbb218f45,SC,15,2871.95,2248.37,2024-08-21,Ar Condicionado Philco
+João Vitor Mendes,1c6bc109-d3ee-4f36-ba1a-feceb22bb56d,PR,1,2628.52,226.76,2024-07-24,Ar Condicionado Philco
+Sr. Luiz Miguel Duarte,38bbe1e9-dec2-461d-a94d-3035e90f93dd,DF,5,2198.17,342.0,2024-02-13,Smartphone Samsung
+Rafael Santos,d62f0211-62b4-476c-b51b-c906f4f48e48,SP,8,2601.79,1259.45,2024-02-23,Fogão Consul
+Maria Cecília Fernandes,a651363f-c61a-4ed9-a95c-4587fe619df8,PR,17,890.31,1814.17,2024-06-10,Smartphone Samsung
+Dr. Matheus Duarte,b508c61a-4706-4fba-904b-f62ac4e54a72,SP,1,2117.73,3785.88,2024-08-21,Cafeteira Nespresso
+Laís Gonçalves,22283285-e10c-428d-9dde-b8f203a72f0c,RJ,14,1895.84,2527.54,2024-03-25,Notebook Lenovo
+Nicolas Araújo,fd15f24e-0bcc-4a5d-bd84-4bfdcc61aa9d,GO,5,875.88,1661.85,2024-02-29,Notebook Lenovo
+Yasmin Aragão,2a4479f6-178c-432c-abd9-df0d3b71d407,ES,20,4149.07,3661.15,2024-08-09,Geladeira Brastemp
+Manuela Almeida,78386ef1-5fd7-4215-8d14-7367edc2c066,ES,3,211.44,996.6,2024-07-11,Notebook Lenovo
+Giovanna Souza,7d7928a8-109a-4a6b-9783-8f7de752d711,DF,18,4146.35,570.93,2024-08-16,Notebook Lenovo
+Alícia Vieira,800eedca-f461-4096-9ff2-8e5977adabb5,GO,2,2594.65,905.39,2024-06-01,Microondas Electrolux
+João Gabriel Almeida,f4eae997-55b2-4c03-b477-357c31851d34,MG,5,4663.39,3569.45,2024-07-16,Câmera Canon
+Bryan Jesus,3db89193-3cac-43e2-8af9-169e352b8084,ES,14,2194.05,333.18,2024-06-05,Fogão Consul
+Pietro Barros,0f88a780-b1f9-499f-b1f5-b39e01b7864f,RJ,7,1837.31,398.79,2024-02-13,Impressora HP
+Maria Alice Farias,2d3cdb2d-f97e-4dd3-94c0-4fed5eefd85a,DF,11,1567.0,940.55,2024-06-28,Televisão LG
+Lorenzo Souza,25fd0b29-baa6-44ba-bd05-c4cae0881468,PR,8,1299.79,2852.78,2024-05-17,Cafeteira Nespresso
+Kevin Araújo,898f2790-9d52-486a-b1d8-5e18399c1d34,SP,8,3268.91,1538.17,2024-05-14,Geladeira Brastemp
+Dr. Diogo Alves,c6b156b4-b6f3-4b32-9c82-683af118830a,DF,12,4503.29,930.3,2024-08-22,Cafeteira Nespresso
+Luiza Moraes,4866f1df-4f3e-4110-8163-faefba9915e4,ES,12,2501.97,3784.54,2024-08-05,Smartphone Samsung
+Luiz Felipe Alves,1592fe24-3494-4cd1-8d5b-b23605d59a63,MG,7,1677.03,985.19,2024-03-21,Geladeira Brastemp
+Isadora Castro,73de4dba-c226-4c70-9bad-13e753e3e532,ES,4,2412.23,206.81,2024-03-25,Ar Condicionado Philco
+Luna Jesus,6c94a723-c01d-4353-9698-eaf90f0b842f,RJ,5,1987.4,972.0,2024-01-23,Smartphone Samsung
+Nicolas Oliveira,02424a57-b6e0-4c25-bce3-ccd68c145ceb,RJ,2,4556.2,755.51,2024-04-13,Cafeteira Nespresso
+Dra. Mirella Novaes,fca142db-5edf-4bb2-9bf7-7944b7fe19e4,BA,4,3979.0,876.18,2024-07-28,Microondas Electrolux
+Sr. Luiz Miguel Gonçalves,f6e8fde4-e4eb-427b-bd5b-73c1be203b08,RJ,12,4262.86,3810.7,2024-07-31,Notebook Lenovo
+Júlia Rezende,846a0e3c-705d-482b-980e-04a7d1b142f8,BA,8,3165.26,2181.1,2024-03-17,Notebook Lenovo
+Davi Almeida,7960ad6b-3647-433e-9fd1-5c00fab94f2d,SP,7,3259.3,786.28,2024-01-05,Fogão Consul
+Yago Viana,629b372e-59a2-47b8-aeff-0ce78e4eb853,DF,10,260.93,767.37,2024-04-27,Ar Condicionado Philco
+Luiz Miguel Moura,49f2f8d0-c071-4bdf-895b-caf8f93a079e,DF,10,3603.57,1612.69,2024-04-13,Microondas Electrolux
+Marcelo Pires,4e43eca9-dbca-4d26-bca6-dedcd8c462ff,RS,5,4453.18,3078.48,2024-04-06,Impressora HP
+Júlia Porto,d5568b7a-ad93-4e19-b5fe-2f33eb2a3042,MG,19,4836.7,3678.44,2024-02-22,Cafeteira Nespresso
+Cauã Rezende,47598564-5674-4ca8-9684-3d94872993cc,DF,7,2886.02,813.33,2024-05-24,Ar Condicionado Philco
+Igor Barbosa,335818b7-660b-48f2-a41c-212327de70ff,RJ,13,2308.62,3808.02,2024-08-22,Câmera Canon
+Rafaela Mendes,4b93ae9c-8303-447b-bdb8-c32bf63abb85,RS,15,277.67,52.72,2024-07-20,Microondas Electrolux
+Ian Cardoso,9f72cd9e-d05b-49f8-9d49-b4957990ce32,ES,18,3298.63,2914.5,2024-06-14,Fogão Consul
+Matheus da Paz,af6f8216-0e7b-4995-ae02-5085492eca02,SP,1,4371.82,171.38,2024-02-07,Televisão LG
+Thiago Pinto,4aa76c6c-6d80-47cc-9484-7fa2f0eb0600,SP,2,568.59,300.05,2024-03-13,Notebook Lenovo
+Danilo Silva,90988967-80ac-43b1-99c2-9ed13acc3937,DF,6,4989.56,3547.72,2024-07-24,Fogão Consul
+Rebeca Sales,c3ee72cf-422e-4c70-b28f-abae02c9e65a,BA,5,2472.66,963.64,2024-07-13,Notebook Lenovo
+Helena Pinto,ff28cda7-95db-4086-864a-12f4318f4838,RS,18,886.38,3538.78,2024-03-10,Cafeteira Nespresso
+Ryan Campos,4dc288be-1159-4ad0-a96f-f97ab1c4e4ce,RJ,11,2682.15,2888.84,2024-06-12,Fogão Consul
+Erick da Mota,afc8a84b-73cb-4c66-967a-59182b184e5e,GO,3,1596.81,2150.99,2024-01-01,Microondas Electrolux
+Diogo Alves,9495fd4e-3cf4-4608-9172-a4fde03b9b9c,ES,2,2965.47,3408.67,2024-01-18,Notebook Lenovo
+Isabella da Paz,d174e909-69ef-4925-a894-a4fae4e5cc10,RS,7,1144.41,2993.32,2024-03-05,Cafeteira Nespresso
+Ana Laura Novaes,4da50d90-4014-4ff2-816b-db28945cdbae,SP,6,564.36,3260.45,2024-03-16,Câmera Canon
+Marcos Vinicius Nunes,73d59e59-81ea-4890-9002-3ef9dcc2e78e,GO,5,4022.32,917.41,2024-03-02,Smartphone Samsung
+Alexandre da Luz,f820accf-bbd6-42ad-b693-3422cf33249f,RJ,8,3456.56,3991.87,2024-01-05,Geladeira Brastemp
+Davi Luiz da Rosa,5d304d88-86c3-4772-b934-138f8639c643,DF,16,4054.66,1420.15,2024-01-17,Impressora HP
+Mariana Moraes,7bbbbf98-49be-41b6-995a-715bc02fefee,BA,2,2467.47,578.3,2024-01-13,Televisão LG
+Anthony Ferreira,993b3f7e-7f59-42bc-9bb1-4c73072549d0,ES,20,3551.06,1790.38,2024-02-12,Fogão Consul
+Rafaela Teixeira,17598c71-30f7-45c9-af1c-f35f0fc32d8e,RS,17,2936.02,3158.25,2024-05-23,Impressora HP
+Maria Alice Rocha,8428041f-6156-4efd-b602-721a3bd0df69,BA,14,387.16,1598.24,2024-05-11,Fogão Consul
+Kaique da Cruz,230365f0-cf2d-4ee0-82d7-58a7742a7541,RJ,1,2901.68,1234.37,2024-04-23,Fogão Consul
+Henrique Nascimento,0b37739d-7f57-4f4b-8590-7014b152755b,RJ,4,4621.03,806.55,2024-08-07,Cafeteira Nespresso
+Isabella da Costa,5f617f75-838a-4ef1-b5af-a22ffa329eb9,SC,14,1823.2,692.32,2024-01-12,Ar Condicionado Philco
+Alice Sales,fec04b03-0cd7-4786-8608-744e31f45f58,DF,12,1363.14,1186.78,2024-01-25,Impressora HP
+Alexia das Neves,b623f575-b0dc-4295-8afb-7fab67c6c0db,BA,14,4975.08,2375.17,2024-08-09,Cafeteira Nespresso
+Rafaela Barros,d027e584-5790-43db-9101-fbb75eb4b342,SC,12,1865.4,2056.68,2024-06-24,Fogão Consul
+Kamilly Souza,681f7160-b4dd-44b2-a3a1-1506e164c5ed,RJ,9,1555.97,1898.24,2024-06-09,Cafeteira Nespresso
+Kevin Souza,9669c37f-0a4c-4fe5-a4c1-cb9ea10f5586,RJ,2,4934.59,2153.94,2024-08-06,Cafeteira Nespresso
+Beatriz Nunes,85d0cad4-c02d-4c28-8c4c-4f6e22c8e8b8,PR,7,4165.77,704.3,2024-01-25,Televisão LG
+Fernando Pereira,33c69cad-51a8-4ecd-a2d5-d5e2f0dc89e8,RJ,3,2780.0,2528.3,2024-04-03,Geladeira Brastemp
+Yuri Novaes,154e807c-9911-4aea-8379-573256063d28,RJ,4,2494.12,3061.76,2024-02-02,Impressora HP
+Sra. Ana Nascimento,9cc178ab-628d-4cc8-b126-4a7fc42cc404,GO,2,3188.52,2781.78,2024-05-25,Notebook Lenovo
+Rebeca Pires,a263c25f-542f-4d7d-88c8-37fb2ea73596,BA,4,146.95,1038.43,2024-01-14,Microondas Electrolux
+Ana Luiza Peixoto,a0576c7b-2cde-415b-949f-9ad5ff3266c7,SC,17,3263.51,604.31,2024-02-22,Televisão LG
+Ana Laura Rocha,eac0eff5-8cf2-4dd5-9157-daca2b338745,SC,10,955.43,1107.21,2024-02-26,Fogão Consul
+Danilo Costela,eb758b0a-1caf-4411-a787-2cc8525b4d36,PR,19,3060.08,2880.93,2024-06-21,Impressora HP
+Milena da Conceição,0c228004-42b6-4ba8-8f95-8d9e625d56a0,BA,13,1613.36,2279.56,2024-02-21,Câmera Canon
+Luana Freitas,2eb76d9e-944d-418c-af74-f4c53097dbc1,RJ,2,4106.9,2347.92,2024-06-08,Smartphone Samsung
+Dra. Isabelly Costela,734c5b2d-2b03-4a21-a703-232158d06ac7,DF,9,4524.02,173.23,2024-06-12,Notebook Lenovo
+Isabel Cavalcanti,dee60e27-820e-4c98-99a0-3424cd590137,SP,9,1817.87,1557.15,2024-03-24,Notebook Lenovo
+Samuel Freitas,e98ea5fc-dd59-4627-b61f-c3c22d8f3133,PR,14,409.55,2428.22,2024-05-19,Televisão LG
+Pedro Henrique Moreira,6c03cfda-685a-427d-a89a-c4bc6be15768,PR,5,3136.75,3983.1,2024-07-17,Câmera Canon
+Ana Laura da Costa,528effee-160f-484d-8f5e-d4ecabdd3424,ES,9,3707.58,46.33,2024-06-04,Microondas Electrolux
+Ana Beatriz da Paz,564b993d-fcf8-43e5-9968-648f1885e46c,PR,3,2769.33,2829.56,2024-03-04,Televisão LG
+Gabriel Souza,c9cbd748-5612-454e-bb1a-844e82b4bbf2,DF,13,3792.33,418.9,2024-01-07,Impressora HP
+Pedro Henrique Azevedo,a0a16e84-452a-4978-b8f9-c53b9f17c7ab,MG,8,1517.42,821.83,2024-06-19,Geladeira Brastemp
+Joaquim Moraes,522b7233-56ec-40f6-9939-547fa5eb2e55,RS,15,1638.61,408.84,2024-07-26,Notebook Lenovo
+Dra. Natália Ramos,d63a9b00-410a-44f2-ad13-2ac2c7714453,ES,11,711.78,3155.82,2024-05-25,Televisão LG
+Caroline Carvalho,fa000a60-769e-4207-8697-9c0c9b31b1cd,SC,2,1835.29,3653.56,2024-03-12,Smartphone Samsung
+Esther Pinto,7a4a3101-250a-4248-94d4-1d0d8a0f2e50,BA,5,2926.7,2271.74,2024-04-30,Geladeira Brastemp
+João Vitor Freitas,c276ca24-0ba3-477e-9914-16f4fd20b83f,BA,13,1805.55,2126.26,2024-06-15,Notebook Lenovo
+Enzo Melo,71a98a66-73fb-443c-bb50-7990979151e0,DF,16,4798.79,2407.12,2024-01-21,Impressora HP
+João Miguel Rocha,f032eb62-a9e2-4372-845a-b3a70ad5b30e,RJ,20,1458.46,358.44,2024-03-13,Geladeira Brastemp
+Luiz Miguel Araújo,7c37e85c-94f0-4ff2-bd0b-90b59cdcadab,MG,8,3441.99,3707.2,2024-04-27,Cafeteira Nespresso
+Sr. Theo Fernandes,e0faabdf-2df8-4c63-8e21-21035193733b,RS,6,1978.14,3893.89,2024-05-20,Microondas Electrolux
+Maria Vitória Porto,34727bdd-889e-4bfd-bbde-e080859f25cd,GO,20,2876.05,2533.03,2024-02-23,Cafeteira Nespresso
+João Gabriel da Paz,0a43a493-1fcc-459b-8095-b696c59c21fc,SC,2,4739.75,3617.25,2024-02-29,Fogão Consul
+Dr. Kaique Pires,fa850801-aed5-4f00-a50b-664ec301db24,PR,2,2766.73,1585.01,2024-05-05,Impressora HP
+Sra. Daniela Fogaça,df968d76-e286-4b0b-a34c-3dcce4d3af4c,DF,1,854.12,2745.4,2024-08-14,Impressora HP
+Maria Alice Rodrigues,b3156b21-67ce-435a-8b3d-c822dc98743d,DF,17,1481.89,2516.59,2024-05-03,Geladeira Brastemp
+Bernardo Correia,fa50da01-64cb-47c0-bd6a-c806f0a320fa,SP,13,1515.63,1730.84,2024-08-22,Microondas Electrolux
+Dr. Thales Ribeiro,df0bb936-8c3a-497f-8a15-5e28c53cdb2c,RS,10,3636.95,3808.14,2024-02-24,Smartphone Samsung
+Joaquim Freitas,f1208dd4-7219-4663-8d40-8399d37c8f28,BA,14,518.92,2798.18,2024-07-13,Televisão LG
+Bruna Gomes,22560ddb-b96d-4c8c-9bc6-2c3aa59e5215,GO,19,4977.13,2452.19,2024-01-01,Microondas Electrolux
+Maria Eduarda Gonçalves,7155e300-7623-4bcc-9f53-1aec64b9a7dd,BA,14,3335.33,2815.69,2024-04-24,Microondas Electrolux
+Cauê Novaes,74e7bcd2-4248-4398-b3b6-94d5c72e43e0,RJ,13,3586.84,3957.81,2024-05-22,Impressora HP
+Gabriela Azevedo,e89d0a56-8e57-4961-afbc-c8257d2aed4d,PR,3,3193.24,721.17,2024-08-12,Televisão LG
+Dr. Anthony Barbosa,66d258e5-f68c-4ecc-9d58-e495a878dcf7,RJ,4,3785.9,377.69,2024-05-16,Televisão LG
+Srta. Caroline Barbosa,9a09c4a9-d321-4ca9-9f87-d0f03460d9e7,BA,4,238.86,1874.2,2024-07-20,Ar Condicionado Philco
+Sr. Lorenzo das Neves,3ce1684d-b9cf-4e90-9570-50d7f8c99ea2,GO,7,3252.75,2962.95,2024-02-23,Impressora HP
+Yasmin Nunes,37ab7d73-5c03-48ae-be80-eca051acf238,DF,10,2905.85,3030.2,2024-03-21,Fogão Consul
+Guilherme Gomes,759ed11b-8d76-4834-9af0-db3058247e64,RJ,6,4370.8,3780.17,2024-05-18,Câmera Canon
+Sr. Thomas Martins,0ef85b84-997b-4720-9eb8-4e5528683e42,ES,9,2215.28,2717.53,2024-05-06,Geladeira Brastemp
+Gabriela Nogueira,49a49ea8-fe8c-43f4-a3d6-adc55f23d490,PR,6,2526.38,1104.17,2024-01-16,Microondas Electrolux
+Srta. Isabella Barros,a7aadd3d-bdf6-4401-8f5a-cf5975be3126,RS,1,3429.46,3805.21,2024-02-08,Microondas Electrolux
+Nina Dias,7b36167b-a66f-4b97-ae17-b51178bf8ba9,MG,3,2730.01,3786.48,2024-07-20,Geladeira Brastemp
+Sarah Gonçalves,7918676c-be8c-48f2-b684-2d8fe4e64a75,RJ,10,4492.94,3266.19,2024-08-17,Impressora HP
+Marina Mendes,a94a935e-027d-4eb7-a625-56833f8b8e60,DF,19,3446.74,839.88,2024-05-17,Fogão Consul
+Ana Julia Moura,730f99ac-fc3a-4611-ab20-4bb21527b3ac,DF,13,1761.45,1009.47,2024-07-08,Notebook Lenovo
+Kevin da Cruz,f30cc927-d5a1-4a67-84c4-888ff98aebf3,SP,16,4931.07,940.35,2024-04-02,Fogão Consul
+Lavínia da Costa,49fdde96-2e40-4199-a3f5-576aa32eb4e2,SC,19,661.11,1153.17,2024-01-12,Ar Condicionado Philco
+Sr. Lucas Gabriel Nascimento,e36f763a-5a22-4b0e-90ed-c48422dcb278,PR,12,4811.59,3659.37,2024-04-03,Fogão Consul
+Emanuella Viana,2c777340-636c-4752-a860-f69add087c13,RJ,9,1317.21,792.11,2024-02-27,Notebook Lenovo
+Mirella Correia,2c3d52c1-a83a-42a6-b639-724f23d5084a,GO,19,1767.71,2259.04,2024-04-17,Ar Condicionado Philco
+Danilo Rodrigues,8aa02a7c-10a3-4006-b91b-09666fd8b9e5,MG,11,4725.94,297.55,2024-08-06,Impressora HP
+Dr. Breno Azevedo,e544ab02-999c-4f0d-b8da-21498ff5d1c4,DF,12,2127.17,567.79,2024-07-14,Fogão Consul
+Luana Sales,58bc5329-b5e2-41bb-8435-08712e39e8fb,SC,18,3342.63,1264.82,2024-03-28,Impressora HP
+Vicente Oliveira,ca6f37ff-6a30-4e2a-80b6-f76048342111,PR,9,3752.1,2184.55,2024-08-21,Cafeteira Nespresso
+Eduardo Cunha,e06e0aa4-a66c-47ed-8826-a2929638f601,PR,4,2141.03,601.11,2024-08-04,Fogão Consul
+Vitor Hugo Rodrigues,053ec012-24b7-4e90-80a2-54ad8dcc2c3e,SP,17,3171.49,3482.33,2024-07-06,Impressora HP
+Olivia Viana,1d2f6e48-bb7d-45e7-97e3-b52e6525385c,MG,6,4180.61,1931.57,2024-07-14,Câmera Canon
+Maria Luiza da Costa,b1119d81-6b3b-42c2-ab26-936222ddbbcb,ES,11,3620.72,100.74,2024-02-09,Televisão LG
+Vicente Azevedo,0f9213ac-6768-4677-a77f-e4fe250ca98e,GO,15,1545.38,1499.94,2024-05-04,Cafeteira Nespresso
+Maysa Ferreira,8c661333-00c8-45d7-b498-b8c8ae87f6d1,BA,5,2961.25,2742.69,2024-03-21,Smartphone Samsung
+Dra. Pietra Costa,9896d480-0444-42d6-9085-2acd47242f4a,MG,20,3709.64,3638.3,2024-01-27,Ar Condicionado Philco
+Alice Rodrigues,7e475f0a-e160-465f-8008-67d9ac83f9ab,SC,13,2681.92,2404.38,2024-04-26,Fogão Consul
+Rebeca Viana,1d16abeb-42e8-497f-a974-c5ff50d2a980,SP,4,4849.34,232.74,2024-01-08,Microondas Electrolux
+Mariane da Mota,61880165-2289-4bf9-b45c-efa1a16b0087,GO,2,284.48,70.05,2024-08-21,Televisão LG
+Augusto Dias,ef186b5b-f17b-4a15-a0b5-e6100428fd85,RJ,1,2204.69,1227.04,2024-08-02,Impressora HP
+Lucas Gabriel da Cruz,4d8a12ca-8fdc-4d69-9750-9efbb473a380,PR,12,1978.1,3541.77,2024-04-28,Microondas Electrolux
+Marcos Vinicius Ribeiro,36ef2df4-8a0f-4647-89c7-e519ab8bf5e1,PR,1,951.56,1042.02,2024-08-17,Notebook Lenovo
+Enzo Nascimento,584ff4aa-ce21-472e-a079-6383f4a6ea6f,BA,4,681.45,446.26,2024-06-30,Fogão Consul
+Diego Peixoto,afd9648c-45e3-44f2-8cbc-8c09d4ee2674,RJ,4,787.89,169.72,2024-07-05,Cafeteira Nespresso
+Júlia Ferreira,4c6852a9-7719-468b-953d-9d8dbcc8f7e2,SP,20,1360.32,1925.94,2024-05-03,Televisão LG
+Cauã Sales,b2c02e6a-1276-46f8-8c2f-4644d2f398e4,BA,7,1977.43,1682.35,2024-04-02,Impressora HP
+Thomas das Neves,b37a5ef6-063d-4936-9515-b0d39654b2c9,RJ,19,1267.76,1512.26,2024-02-05,Televisão LG
+Laura Sales,d00d1b3c-cbfc-49d5-8d86-8f3cdee8d69f,SP,15,181.83,2684.07,2024-07-05,Microondas Electrolux
+Fernanda Lima,3073e0c6-97c9-455b-812c-29a4d44b1635,PR,9,3727.87,3541.32,2024-07-26,Ar Condicionado Philco
+Arthur Lopes,087cef55-ec86-47fe-a743-574ca4145405,BA,19,2908.85,2737.5,2024-06-19,Notebook Lenovo
+Srta. Helena Alves,a33371b1-61d4-4dd4-bbc9-278ec24a6f06,ES,2,302.79,3402.76,2024-03-28,Smartphone Samsung
+Dra. Clara Costa,8b40b784-77bd-489b-a9b5-7190e4b40757,MG,3,3885.23,1556.83,2024-01-31,Impressora HP
+Augusto das Neves,9f4cff53-3d00-4e4c-b106-9aa8f0681ff9,MG,13,68.67,1376.14,2024-05-21,Notebook Lenovo
+Dra. Gabrielly Viana,fbd6f1f3-2e69-4db6-aa40-b3ec4cfa2d4f,DF,11,4535.56,3005.02,2024-02-05,Ar Condicionado Philco
+Diego Rodrigues,d74ad1f9-f51d-4216-a4e8-47fe4ee06242,BA,17,1960.68,3377.17,2024-05-14,Microondas Electrolux
+Breno Rocha,192c0b12-f169-4770-b099-5e22c70a90fd,GO,4,1637.46,294.11,2024-02-25,Microondas Electrolux
+Valentina Vieira,6a9e13a0-95ee-474f-8d99-71950f226494,RJ,14,1182.6,2209.95,2024-01-10,Geladeira Brastemp
+Pedro Fernandes,265ed82b-e128-459f-a6b0-0547108b8776,GO,12,2602.69,3983.1,2024-06-05,Notebook Lenovo
+Sr. Erick Oliveira,3aff0a96-a3f0-4151-8571-7581df525eba,BA,17,4414.24,3959.62,2024-03-06,Cafeteira Nespresso
+Joana da Rocha,1f17f050-f6f0-4652-952e-0dc7f654c6ee,MG,16,2137.57,3340.96,2024-08-15,Geladeira Brastemp
+Milena Campos,bbbb6cfb-b093-4c75-bdf7-bba10e8e84b0,ES,13,3955.91,537.2,2024-06-04,Fogão Consul
+Brenda Duarte,050bee5a-876a-4ca2-80a9-b46d9c7fc33a,SP,14,3562.85,2636.19,2024-01-11,Impressora HP
+Clarice Barros,4c1647ee-ad74-4390-bc37-b06407754f71,ES,12,1416.1,2049.96,2024-07-17,Geladeira Brastemp
+Maitê Gonçalves,96a7a57f-77ab-4ccb-b1f8-56932a802f67,RJ,15,4901.66,1412.56,2024-07-10,Smartphone Samsung
+Sarah Araújo,3f2c02cf-07c9-4821-b6fe-6f8c1b98e04f,ES,18,4474.52,729.23,2024-01-24,Cafeteira Nespresso
+Enzo Rezende,5022498d-c403-4ae3-b008-4f0ae11bd6fb,ES,16,1693.97,350.23,2024-03-07,Impressora HP
+Vinicius Rodrigues,4e103256-6c4f-4c43-9fac-7bc645896fb1,GO,12,3858.97,1923.71,2024-01-23,Notebook Lenovo
+Lucas Fernandes,97306156-6468-42d6-bef4-1ac02bda2385,GO,3,1879.73,84.81,2024-07-01,Microondas Electrolux
+Dr. Davi Lucca da Rocha,744151dc-35f1-4f6a-b36b-9211dd57cd6a,PR,10,3143.5,714.68,2024-06-12,Televisão LG
+Pietro Cunha,a8cf89ab-8080-486d-aebe-34c99d98fb7a,ES,15,1483.37,1517.16,2024-06-23,Smartphone Samsung
+Thales Pires,e9e0ccd0-3b63-4c6d-b834-cb3751b223d6,SC,15,90.54,1668.4,2024-04-06,Geladeira Brastemp
+Amanda Oliveira,125e5033-bd02-4be4-a8be-4e71e6c492d4,GO,9,1846.46,2869.68,2024-05-31,Cafeteira Nespresso
+Isabella Viana,cc787e5d-a9e1-412c-b834-bd96582a4201,DF,13,1486.68,1624.73,2024-08-13,Geladeira Brastemp
+Eduarda Freitas,131b912a-15f7-4c6d-8c9d-829fc01a8fee,GO,11,1206.66,2164.38,2024-02-24,Câmera Canon
+Ana Beatriz Oliveira,5c055d18-a723-4478-b7fa-c4e3e39c33b6,GO,7,439.65,3153.45,2024-07-21,Ar Condicionado Philco
+Diogo Sales,7bc5938d-7305-4b52-a814-1174c293d9c6,SC,1,1489.74,1315.29,2024-05-18,Microondas Electrolux
+João Lucas Rezende,7160c7e5-a453-4335-906a-a50e0cb1132a,DF,16,2577.96,402.4,2024-01-16,Smartphone Samsung
+Fernanda Martins,315d9304-42c6-4be8-b8e6-79e2ca11d889,MG,2,4577.72,3363.22,2024-02-19,Smartphone Samsung
+Sr. Cauê Santos,8abe13c2-5e8f-43e3-b880-d75077c17386,MG,4,4529.9,1476.08,2024-03-01,Ar Condicionado Philco
+Stella Teixeira,793004bb-868a-48b8-b5f7-0834eb445be2,SP,1,4788.35,431.7,2024-08-20,Smartphone Samsung
+Luiza da Mota,f34a68a3-566c-462d-992b-1d2ecc12f786,MG,1,4123.46,863.28,2024-08-13,Microondas Electrolux
+Laís Silveira,5f285e22-1e59-4d52-8d3a-b28f0a219351,GO,17,3228.86,3495.03,2024-05-15,Fogão Consul
+Maria Eduarda Ramos,570438ce-e6a9-4d72-8db4-e4a5e7236e68,PR,18,565.38,1897.18,2024-08-17,Microondas Electrolux
+Lucas Gabriel Rodrigues,c2a12e77-0a43-4436-ac32-3004084f0e55,SP,14,2030.05,660.38,2024-01-30,Notebook Lenovo
+Isabelly Souza,935b659a-7dc1-492a-aa8c-87237e0641be,ES,16,3467.15,42.55,2024-03-24,Câmera Canon
+Daniel Nogueira,3c49e502-2a97-4bda-a54d-472536082ba6,PR,17,3321.54,3139.13,2024-08-17,Cafeteira Nespresso
+Lorena Moraes,9fd86f04-fcaa-490c-ad20-3b290cf07048,ES,1,402.73,2834.83,2024-07-19,Notebook Lenovo
+Camila da Luz,6aa4216a-3f9c-4077-a8fe-272c60f772a3,BA,15,4896.83,1754.96,2024-01-02,Ar Condicionado Philco
+Elisa Nunes,bac88f0d-933d-4caa-be05-c598c3839e9f,MG,7,4399.09,3296.86,2024-02-15,Microondas Electrolux
+Igor Novaes,904ed953-6537-45eb-8ccc-3953dfa065e0,ES,6,1262.24,1541.47,2024-04-19,Cafeteira Nespresso
+Ana Júlia Melo,9a6a4a72-fe58-44dc-b09d-df115797f69b,GO,5,4793.13,3180.93,2024-04-08,Notebook Lenovo
+Eduardo Cavalcanti,36bd4825-3437-4617-b894-f5a45f27f64f,SP,9,1154.9,435.08,2024-07-25,Fogão Consul
+Sr. João Lucas Campos,b75f38c1-a121-4467-94cd-cf1b61f86dc1,SP,15,841.42,2413.7,2024-06-08,Notebook Lenovo
+Maria Julia Vieira,ec1cb398-6f0b-4e6d-85b6-7cc84b40212a,RS,1,2174.74,314.59,2024-01-08,Notebook Lenovo
+João Miguel Rodrigues,14251c0b-9161-408a-b56b-24c480dd9a71,RJ,12,1642.43,3959.61,2024-07-03,Fogão Consul
+Yago Lima,606fe621-3c8a-4912-b205-fe5591382447,SC,3,2451.31,2889.1,2024-04-22,Microondas Electrolux
+Dr. Kevin Porto,af52ed42-3640-4449-a5ae-05048620ef08,DF,16,2627.56,3044.66,2024-06-05,Fogão Consul
+Emanuel Ribeiro,f8dcca67-42a4-440f-8a80-ae34783b5518,GO,20,4433.85,2052.77,2024-02-28,Ar Condicionado Philco
+Eloah Fogaça,89490b0c-65cb-41fd-b48c-29cea916d104,RS,14,2130.49,694.07,2024-05-03,Microondas Electrolux
+Caroline Martins,59ad0a35-77a3-421d-bd72-817187c2e48e,ES,2,1305.28,2623.5,2024-04-29,Cafeteira Nespresso
+João Novaes,0e192f8a-b10e-4754-8a8f-67ac203015de,SC,13,4322.55,842.76,2024-02-09,Ar Condicionado Philco
+Juan Pereira,48f7909e-90e4-4a10-9182-7a7b7d72528e,SC,7,218.01,1581.65,2024-02-03,Televisão LG
+Dr. Felipe Fernandes,93e9a993-240c-45a3-b299-45252cfaecdc,SP,10,1297.34,417.28,2024-04-16,Cafeteira Nespresso
+Bryan Correia,54e47c52-7d22-43bc-b3f2-d2ab3c505ed8,RJ,8,3311.29,2491.47,2024-04-22,Televisão LG
+Vitor Gabriel Freitas,01b404b2-b5ff-4a72-8a1e-fb809ab2e4d5,PR,20,3303.48,3012.68,2024-01-03,Geladeira Brastemp
+André Cunha,fef40dd0-e20e-44b2-ab9d-4ad30a5c9451,GO,17,3805.17,3245.82,2024-02-26,Notebook Lenovo
+Ana Beatriz Cavalcanti,2a2981cc-9120-4993-9b95-69abd8960c92,SP,14,3542.7,3016.11,2024-06-26,Fogão Consul
+Benício Sales,920d4696-ffe1-4534-9d58-bccd73d1a051,RS,18,598.9,1992.08,2024-05-09,Impressora HP
+Fernando Novaes,c8c36da8-fc66-4c71-ba42-795ab6ae6543,DF,3,3560.49,1867.89,2024-06-14,Impressora HP
+Emilly da Rosa,80baf9b5-b7c5-4747-9b32-fd422cc23605,ES,1,171.76,616.95,2024-07-05,Câmera Canon
+Sophia Correia,4dc68961-9550-4960-9cea-79e0b86119c4,SC,18,3332.16,1218.64,2024-08-13,Televisão LG
+Guilherme Pires,57bff9a0-b6c0-41d8-aba5-79601ead2bee,BA,16,4998.15,1833.53,2024-01-07,Televisão LG
+Daniela Araújo,c414da74-6649-45d9-b26b-8374671152f9,RJ,12,2693.45,1516.44,2024-08-15,Fogão Consul
+Luigi Lima,a9648093-bfa1-4f02-8240-7c8293683d85,PR,3,1190.46,2428.53,2024-01-13,Smartphone Samsung
+Vitor Gabriel Alves,98f6bac1-ed0e-4b5f-bb44-5b85de21089b,RJ,4,3085.9,1735.88,2024-04-06,Microondas Electrolux
+Ana Carolina Almeida,9ed57d6a-56c9-49f2-b5f9-39db82eed983,PR,16,1015.39,1077.37,2024-05-18,Fogão Consul
+Levi da Cunha,ed886f0c-1561-46fe-971f-bd745c427a2e,SP,17,2639.68,3828.41,2024-02-25,Smartphone Samsung
+Evelyn Peixoto,cd470404-c83e-4077-8723-b5460193d8eb,PR,10,672.25,1769.61,2024-03-23,Cafeteira Nespresso
+Maria Vitória Monteiro,4bcf9a90-d9af-458d-83ce-b6b50ea6c869,GO,13,3040.41,1701.71,2024-03-30,Smartphone Samsung
+Isaac Novaes,85802ba0-5388-4685-8123-27a22137e21b,SC,15,2066.19,2059.48,2024-03-05,Câmera Canon
+Emanuella Araújo,87ab8ff4-ae35-4c35-9c7d-cbf5966c9957,ES,12,4365.15,2499.05,2024-05-06,Smartphone Samsung
+Nicolas Nunes,05ab761a-67d3-4b9d-b4a1-be9a1f36a24e,RJ,10,908.63,3015.75,2024-07-06,Smartphone Samsung
+Pietra Barbosa,add0e6e5-4b74-4f15-bdec-4c013715e88c,PR,3,4464.24,2897.66,2024-04-29,Notebook Lenovo
+Luiz Henrique Cardoso,fb07cc9a-42dd-4949-86c3-ace28aed7d15,RS,20,4974.09,367.96,2024-06-04,Fogão Consul
+Emanuel Monteiro,42d1a53d-317e-4b88-8521-a7f939875425,ES,15,2482.61,3481.71,2024-01-04,Geladeira Brastemp
+Alice da Paz,920b0ca2-23d4-4534-ac92-fe11e8a48edd,BA,19,466.98,2021.4,2024-04-09,Televisão LG
+Maria Luiza da Rosa,4c3eb617-953c-48b1-8a41-6dadb5daf5ac,MG,18,1059.8,2417.59,2024-02-15,Fogão Consul
+Marcos Vinicius Viana,9375a1ed-1f55-4fb1-b199-bfcadf2f63d7,SC,3,2657.28,126.67,2024-07-01,Câmera Canon
+Sr. Vicente Moreira,4725ed2b-8334-4f3f-ad34-80c9427a5f5b,RJ,15,1438.04,909.02,2024-01-09,Fogão Consul
+Ana Vitória Cunha,2c0e4302-c060-48d9-9c82-ab2d45399d92,MG,20,637.25,1501.41,2024-02-12,Impressora HP
+Dr. Kevin da Rosa,2657a370-6bac-41f8-8abf-8e55ed658f94,MG,11,2663.89,595.94,2024-07-26,Ar Condicionado Philco
+Maria Alice Martins,fc67b390-3eb2-4cc7-bdee-d1a7c8a96ae3,SC,14,4589.19,2922.67,2024-03-08,Cafeteira Nespresso
+João Vitor Cavalcanti,19e777ba-2d3e-498b-a528-035143e2233a,ES,11,1624.61,1704.78,2024-01-13,Ar Condicionado Philco
+Calebe Campos,c7892b13-d533-4487-a884-165c70cf1812,SP,2,4467.34,2402.85,2024-04-18,Smartphone Samsung
+Bruna Duarte,84d3da46-c3bf-498f-942d-37520499bd50,SC,19,3524.05,3128.0,2024-02-03,Microondas Electrolux
+Enzo Silveira,37c952a7-3006-412c-b137-8e8ac9a8498e,RJ,6,411.97,607.55,2024-06-22,Ar Condicionado Philco
+João Felipe Nascimento,6766799e-9bc6-44c9-b263-6ac5b4518f85,GO,15,1145.07,3931.71,2024-05-05,Impressora HP
+Srta. Sabrina Ramos,8df2102f-049e-45b2-8dbd-ce4d98353d19,SP,17,127.73,871.25,2024-02-02,Câmera Canon
+Srta. Ana Lívia Rezende,957a1e21-c442-4264-9dec-09144b2716d7,SC,13,3650.55,1149.33,2024-07-29,Smartphone Samsung
+Sra. Rafaela Viana,ae339759-c121-4f79-a668-f9b5c225b4f2,ES,7,2634.56,1639.6,2024-06-11,Televisão LG
+Alexia Monteiro,6cbfe16a-581f-4739-b94c-857bc13abdf6,BA,4,3036.72,2727.9,2024-07-24,Câmera Canon
+Anthony Dias,bd89556e-3198-4d1a-8641-d10bb0ce897f,SC,5,3928.21,1973.57,2024-03-08,Notebook Lenovo
+Dra. Maria Julia Melo,9745bdf8-87b8-4c5a-8fde-3fbab53b178e,DF,7,566.54,1583.12,2024-07-08,Câmera Canon
+Calebe Lima,dec725ca-6821-4c0c-909c-13e9b40d5b3d,RS,1,1801.02,2735.97,2024-02-08,Televisão LG
+Dr. João Lucas Rodrigues,6d3b3440-f9f0-45e4-aebe-4d68992f0d2d,RJ,3,1593.28,3273.64,2024-03-24,Televisão LG
+Lucca da Rocha,78f9a9e8-6add-4aed-b349-411895b7dd06,GO,9,1129.42,2143.25,2024-02-10,Geladeira Brastemp
+Ana Melo,4d3595d0-69f4-43a8-b843-d1e351b8e49f,GO,13,1196.55,398.82,2024-06-11,Microondas Electrolux
+Beatriz Martins,ed9f983e-4dcd-497f-9efd-23e6eecd829f,MG,5,2034.28,3188.48,2024-04-01,Fogão Consul
+Davi Moraes,532d0ace-5897-4c71-8196-4624d35ea447,BA,12,912.6,981.07,2024-02-09,Microondas Electrolux
+Melissa das Neves,f232fdf9-ec45-4df1-9092-9ee187a0dbd8,BA,20,1447.3,1970.99,2024-02-01,Fogão Consul
+Eduardo Nogueira,76e4ffd7-2b0b-4392-9ff5-af874752db56,MG,15,3531.69,2837.15,2024-02-28,Câmera Canon
+Sra. Maria Julia Sales,a9f55bb6-6ccd-4d9e-a5dd-71a24a72b4ec,SP,5,64.4,1255.87,2024-03-05,Notebook Lenovo
+Pedro Lucas Souza,b23bd449-b5da-4065-acbc-d9356759ea68,ES,2,625.94,3933.61,2024-01-06,Televisão LG
+Maria Fernanda Teixeira,aa68185f-ef08-43de-a29d-c51e1ae21f37,ES,5,3043.46,1661.87,2024-03-20,Cafeteira Nespresso
+Maria Vitória Cardoso,dc4b3825-1d50-4b0d-a378-06c075d4d958,ES,17,620.4,1395.72,2024-07-06,Cafeteira Nespresso
+Lorena Jesus,1726a3ae-19c0-467c-841b-80143f6d2f40,BA,3,4051.92,1277.42,2024-08-20,Ar Condicionado Philco
+Bryan da Rocha,459d753c-fffb-4fe7-9a82-563b79968664,SC,18,4766.15,2366.12,2024-04-17,Notebook Lenovo
+Srta. Olivia da Cruz,44366b34-bdbb-4468-9a05-9665b1facd6f,MG,2,4352.43,3067.11,2024-01-06,Smartphone Samsung
+Luiz Gustavo Melo,0be149af-544d-4dac-980c-9b4768a6367c,PR,10,524.97,2420.79,2024-01-15,Smartphone Samsung
+Ana Júlia Duarte,a451287e-2fc5-44f1-bc38-a94bb47a2d47,SP,6,3297.26,2031.34,2024-03-18,Cafeteira Nespresso
+Fernando Sales,08159ba0-013a-45ec-928c-c65c88868c27,GO,15,4596.6,462.09,2024-08-14,Ar Condicionado Philco
+Ian Nogueira,58bec659-dbf9-46a7-813b-0816e5b6fdc7,BA,12,4047.0,351.83,2024-01-13,Televisão LG
+Dr. Ian Monteiro,18a74f5f-b919-4898-a348-b1af04fad637,PR,10,993.68,1717.04,2024-02-03,Impressora HP
+Gustavo Henrique Pires,9752a04b-c938-4c07-9303-74c412ad3753,GO,3,3404.49,3557.93,2024-01-20,Cafeteira Nespresso
+Arthur Porto,5943f329-d883-49ef-9669-3cab4346002c,RJ,16,1265.37,3625.67,2024-04-02,Câmera Canon
+Isis Lima,1114eaf1-b978-4421-bcbf-aa11aa6fc441,DF,14,1351.16,1855.11,2024-05-26,Smartphone Samsung
+Arthur Martins,c595ec79-9c19-4257-8683-98b34a5ede6e,PR,4,3643.88,2860.76,2024-07-07,Televisão LG
+Nicole Gomes,74f05cc2-14bf-4c45-a936-d1b2be65df3f,SP,6,2199.94,2282.91,2024-03-17,Notebook Lenovo
+Davi Luiz Souza,d6498525-8a16-4717-a667-b3437a9501e3,RJ,19,4079.29,1798.61,2024-04-08,Câmera Canon
+Evelyn Novaes,2ab1e091-27ba-4686-8088-817dd49a7891,ES,20,2292.47,1424.34,2024-01-07,Ar Condicionado Philco
+Isabel Moraes,5c31be41-9097-4329-8a9e-3d34a9c88374,SP,14,3460.04,257.68,2024-08-20,Câmera Canon
+Nicole Jesus,874ec720-2742-45f9-b5bd-24c464993ea8,SC,18,3776.63,556.69,2024-01-31,Câmera Canon
+Sr. Igor Correia,984b4c37-800d-4155-bb90-70ac7d557ded,RS,13,1469.79,151.78,2024-08-03,Cafeteira Nespresso
+Luiz Henrique Cardoso,0395bb42-5df8-4f68-a90d-71d854a259e1,GO,6,4639.54,3222.6,2024-05-30,Smartphone Samsung
+Vitória da Cunha,6679a68d-9c37-4a1b-99f2-4629e5f642ff,RS,10,234.12,3322.0,2024-07-30,Geladeira Brastemp
+Valentina Teixeira,d018d0a6-efef-4805-a101-53258c1d7b80,SC,1,3189.1,1036.67,2024-03-04,Geladeira Brastemp
+Henrique Nunes,38de6b84-ee9f-43df-8e5e-7e49d0a0e273,BA,3,4981.05,2249.24,2024-05-14,Impressora HP
+Alícia Viana,93e87afd-619b-4514-a4ce-3ecad3e56a26,RJ,6,1872.55,2009.24,2024-01-20,Ar Condicionado Philco
+Beatriz Farias,efc28f02-b4cd-4300-aa92-dd90250b4f55,RS,15,4709.36,1032.74,2024-07-01,Fogão Consul
+Gustavo Henrique Cardoso,417075a7-ac94-469e-9ac9-806349463f9f,DF,2,4602.12,271.69,2024-02-20,Câmera Canon
+Danilo Pires,260ae011-7fe6-44a1-8148-7b6ca896a3d2,SP,10,3533.7,3135.23,2024-01-06,Notebook Lenovo
+Dr. Luigi Silva,1279bb2d-4a0f-4174-8dfd-84a4f2f92fbc,ES,19,4304.47,1785.54,2024-04-13,Câmera Canon
+Giovanna Silveira,25df7c16-fc6c-42c5-85de-4a4d392925b4,SP,6,2363.55,3966.76,2024-03-19,Smartphone Samsung
+Nathan da Costa,a0799103-2e0b-4846-871f-750ab0cf18e8,PR,16,2129.16,2197.16,2024-02-09,Smartphone Samsung
+Caio Oliveira,fe9034ea-6704-4954-bdd7-69a2598a8c47,SC,16,3790.36,1949.34,2024-07-06,Ar Condicionado Philco
+Milena Peixoto,2b3fc173-3305-4403-9f5e-e8008e4ddae9,PR,6,2494.59,3371.27,2024-03-31,Geladeira Brastemp
+Srta. Laura Nogueira,2843a3e8-30e4-4bdc-b85b-f1f3814f6b7f,GO,14,802.64,3996.6,2024-06-27,Notebook Lenovo
+Alice Sales,ff03c6cf-9f6f-4414-81bb-ddcda42abbfa,MG,10,3993.26,3105.37,2024-04-03,Cafeteira Nespresso
+Maria Sophia da Paz,284058e9-8edb-4b0f-a02d-b027e55b2534,GO,18,4841.55,1805.31,2024-02-20,Câmera Canon
+Larissa Rocha,6bc52665-887e-457f-9a3c-19b9781f38ed,MG,15,4446.23,1153.4,2024-05-11,Cafeteira Nespresso
+Bianca Araújo,7496fe92-a4f3-46de-b888-3b2447f3bdd0,ES,15,2529.36,1325.27,2024-01-25,Geladeira Brastemp
+Yago Jesus,b8cd52ba-0179-47ed-bd9d-e0f711ecc3da,SP,18,3309.49,2360.13,2024-03-19,Cafeteira Nespresso
+Anthony Ferreira,f9ad0ca1-adb5-4d8a-918c-169e71dc8988,PR,2,4256.2,353.14,2024-05-29,Câmera Canon
+João Vitor Gonçalves,20b3ab59-6a77-440a-911b-337e5c44fa2d,SC,17,1244.75,3399.61,2024-05-05,Geladeira Brastemp
+Ana Vitória Barros,bcaba4f5-f18d-4b60-baa4-a9a39ddf037b,BA,17,830.07,2812.76,2024-06-02,Ar Condicionado Philco
+Samuel da Paz,cd4d9202-a1b4-4d0b-914f-780efaa5a597,ES,12,1892.16,541.58,2024-05-17,Notebook Lenovo
+Alana da Luz,30cb7d49-5384-4e80-80ba-6a81d8dc1b26,SP,5,728.71,2033.74,2024-02-14,Fogão Consul
+Sra. Rafaela Silveira,b06bd9ef-18c7-4369-9724-13c515ff42f2,GO,17,2689.63,3039.14,2024-07-01,Microondas Electrolux
+Dr. Pedro Silva,6d1ad16a-0aa3-4a40-b4bb-02868f6d17e9,GO,9,4427.71,2978.06,2024-02-04,Televisão LG
+Augusto Barros,b4a25e20-0276-4542-b9ce-72d6b73f3182,RS,2,893.89,1282.84,2024-01-24,Microondas Electrolux
+Maitê da Cruz,07b1e999-0e12-41d3-8f86-876fc43beb04,SC,15,4188.48,3867.16,2024-05-21,Notebook Lenovo
+Ana Julia Rodrigues,1a8b73f9-a6c3-4740-bca3-80ab6e9759a5,MG,18,2266.85,3674.29,2024-07-24,Fogão Consul
+Helena Lima,4582d239-cc26-4e19-82d5-5cd6ff1e8f2f,DF,14,238.32,583.4,2024-08-15,Geladeira Brastemp
+Sra. Ana Vitória Porto,e17ab2df-6799-4a3e-a4bc-7321297c74d4,PR,20,1487.33,3264.48,2024-02-22,Câmera Canon
+Srta. Lívia Santos,088754cc-ff41-43cc-ab91-3ab5271f51b3,RS,4,1379.81,2701.3,2024-04-25,Geladeira Brastemp
+Francisco Silveira,302a01a5-56a2-4881-839e-2f10f82dc56d,RJ,14,463.44,134.86,2024-04-21,Microondas Electrolux
+Bianca Monteiro,5a7e65c3-829d-4afb-8191-0ee148cd2799,BA,6,630.92,124.18,2024-02-05,Ar Condicionado Philco
+Lucas Gabriel Costa,90ae7e32-cb40-47c1-820e-156dd17a7c6d,DF,15,3997.47,158.71,2024-04-06,Ar Condicionado Philco
+Sra. Alana Ramos,c6c8cc0e-f8ff-4f73-bcb5-7d6db16e5894,DF,5,1808.34,1388.2,2024-04-01,Televisão LG
+Dr. Arthur Jesus,34f5e1ff-9028-4a06-9d7a-6a00e1107d33,PR,8,4846.19,1860.82,2024-06-12,Microondas Electrolux
+Rafael Silva,7d1d0b85-b70a-4ae2-8b29-6a3aa4bceb5e,SC,12,1083.03,1601.29,2024-08-21,Geladeira Brastemp
+Cauã Araújo,8172af49-9b94-48f3-8163-9bdf968efba1,RJ,7,1452.31,1327.82,2024-04-03,Cafeteira Nespresso
+Marcelo Viana,3035c018-a00e-4019-901f-6607c283e423,RJ,18,4195.62,2935.21,2024-04-07,Fogão Consul
+Eduardo Aragão,de4eef6b-bd35-453d-9937-c99dcb0575ff,SC,9,100.89,2811.47,2024-04-06,Ar Condicionado Philco
+Igor Pereira,7e29a252-b022-4d44-886e-657bad1ec3d7,GO,10,4947.56,1102.63,2024-05-11,Notebook Lenovo
+Rodrigo Moura,4069b377-cf28-4e1a-9629-797f821a42c5,RJ,10,523.9,2240.01,2024-05-30,Cafeteira Nespresso
+Dr. Kaique Teixeira,0b0ad1e0-c2be-4ea9-8815-e30d1f9414d0,MG,13,914.68,951.77,2024-06-19,Televisão LG
+Marcela Araújo,6e8ef1b4-19f5-4c09-b4c5-1e10600c7650,SP,16,2455.58,232.3,2024-08-01,Impressora HP
+Marcos Vinicius Araújo,ae0bddb0-b645-476c-91de-15096be3b394,RJ,8,3668.2,2487.67,2024-04-26,Impressora HP
+Yago Farias,baede9eb-797b-4136-9609-8d0148cc126d,PR,9,4988.59,3473.35,2024-05-23,Cafeteira Nespresso
+Renan Duarte,b62b9086-7750-41aa-a1f5-db2806416523,RJ,6,1042.86,3479.92,2024-04-20,Geladeira Brastemp
+Clara Nogueira,2f044efd-9009-4340-928e-49a9944ae498,SP,6,4814.0,1780.52,2024-01-08,Câmera Canon
+Dra. Ana Lívia da Cunha,a41b3aa5-4326-436b-bec2-ef55c00943e5,ES,14,2135.75,3172.74,2024-06-26,Cafeteira Nespresso
+Milena da Luz,381b5b86-5cab-41c3-be57-ccb45788d77a,PR,10,2120.68,580.81,2024-07-30,Microondas Electrolux
+Gabriela Lima,2f7e82d0-73c9-4cae-b2fd-e049172182b5,ES,2,4351.19,2725.56,2024-03-05,Smartphone Samsung
+Juliana Moreira,6448c554-8173-43ca-9eb6-4b8a4cf69765,PR,7,3933.51,2622.24,2024-04-20,Cafeteira Nespresso
+João Pedro Cardoso,70b580e8-b7f8-4bab-a836-ac50060f7d48,GO,19,2243.68,787.81,2024-04-03,Cafeteira Nespresso
+Sr. Luigi Souza,e1e41d74-5d6f-4690-8bd8-5a234b91ffff,SP,10,640.27,3683.84,2024-06-20,Fogão Consul
+Dr. Diogo Caldeira,0ff9ca75-6179-4e3e-8703-be1769a54edd,MG,6,2008.13,3811.11,2024-08-15,Câmera Canon
+Laís Rodrigues,65338ad4-1543-4f2e-9251-1c2ab8198297,SP,2,4687.09,3936.31,2024-07-20,Câmera Canon
+Sra. Luiza Oliveira,da15e566-b1b9-4974-b2f4-eb2d7b8d6740,RJ,15,2512.19,2760.98,2024-03-03,Impressora HP
+Antônio da Rosa,ff129e0f-d900-4e07-8eb6-3b803b1083a9,GO,18,1610.96,2070.27,2024-08-14,Fogão Consul
+João Melo,9af9431f-966a-449f-81cf-4baee1494e36,MG,13,1354.33,2431.03,2024-07-03,Cafeteira Nespresso
+Nicolas Jesus,b9b0042c-d1eb-4021-a32d-caf48f4411ef,DF,11,2773.27,668.37,2024-04-13,Cafeteira Nespresso
+Leandro Moreira,dffda9a9-a6c0-40c5-bb3a-e9b1fb0290c7,SP,1,4348.86,3326.81,2024-08-20,Notebook Lenovo
+Ana Júlia Cardoso,71b21d0a-90a2-4b94-ba2f-f86daa4982cd,PR,1,4741.56,263.82,2024-03-28,Smartphone Samsung
+Lavínia da Mata,01a228ed-b982-4629-a207-e67e21a55fb9,BA,13,831.38,65.15,2024-07-30,Cafeteira Nespresso
+Sofia Costa,73911767-ad48-45b8-a714-23c9f89572f6,DF,3,4848.3,3132.68,2024-04-28,Ar Condicionado Philco
+Marina Moraes,20596040-c71d-4095-99ea-cd136053b90f,ES,11,2329.92,2231.52,2024-07-10,Smartphone Samsung
+Breno Porto,f90e6428-a2de-47e4-9e38-2d70df2ccb01,ES,3,4130.26,2410.36,2024-06-14,Ar Condicionado Philco
+Gustavo Henrique Carvalho,35727144-c75f-431e-a453-e3098ae5a88d,RS,6,362.55,3493.42,2024-02-14,Microondas Electrolux
+Sra. Eloah Costa,9290d55f-1fae-45ba-b755-8a4cea27ddf6,SC,14,2759.35,187.6,2024-07-21,Notebook Lenovo
+Alice Fogaça,ace46c92-72fc-4c03-9924-a5419c5fb94b,DF,11,1862.74,1849.33,2024-08-11,Televisão LG
+Luiz Fernando Peixoto,02ce9894-e431-4706-8a64-a323e2742002,RS,6,3648.8,1333.82,2024-01-01,Microondas Electrolux
+Rodrigo Moura,20fc4f9e-c27f-4fa9-8333-b926e07d6f51,DF,9,4376.1,2752.7,2024-01-07,Ar Condicionado Philco
+Clara Nunes,c1063bc5-42d0-48e2-a0d7-566b17b2cd72,RJ,15,1023.26,62.79,2024-08-01,Microondas Electrolux
+Sr. Luiz Henrique Carvalho,94c7f09f-5135-4622-b303-2e0616247310,RJ,11,3617.68,504.21,2024-05-10,Televisão LG
+Emilly Peixoto,68e36007-012d-402d-87e1-9b5d74f7bd3b,SC,14,700.71,3149.06,2024-04-10,Notebook Lenovo
+Milena Dias,1ca7c70f-ea8e-4faf-9a04-0c03bd65e824,RJ,8,2011.66,3963.01,2024-05-25,Microondas Electrolux
+Isabella Cavalcanti,4a842900-23e2-4052-aabf-1edaacc6487c,RJ,6,3766.14,512.65,2024-05-04,Microondas Electrolux
+Maria Vitória Fernandes,503db7b6-4a78-40fe-8f2d-6d108e49f694,GO,3,2561.58,3167.69,2024-05-26,Geladeira Brastemp
+Samuel Fogaça,1d4aa7ad-175b-4a0d-97b6-c636b1b101c4,BA,5,2055.86,1558.37,2024-08-08,Notebook Lenovo
+Benício Lopes,c69b1d07-e49b-4741-811e-44b5b302c3f4,BA,17,2063.01,1173.76,2024-06-21,Fogão Consul
+Joana da Cunha,7e22f275-3bca-425b-8100-255b7484ab1e,SP,6,1781.54,1759.38,2024-06-01,Câmera Canon
+Ian Jesus,87ea0406-fbd1-43f9-a533-7e5fa71de1cc,PR,12,3214.94,1542.68,2024-04-14,Impressora HP
+Isis Jesus,8e1def95-6fc5-4417-a4b4-a7bd23ddc12a,MG,20,3098.25,2546.51,2024-08-19,Notebook Lenovo

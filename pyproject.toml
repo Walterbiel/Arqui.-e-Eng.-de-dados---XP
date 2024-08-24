@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "fundamentos-engenharia"
+version = "0.1.0"
+description = ""
+authors = ["waltergonzaga <walterbiel1237@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pyspark = "^3.5.2"
+requests = "^2.32.3"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
